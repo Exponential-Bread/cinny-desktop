@@ -16,7 +16,7 @@ This makes a single request to Github on start, to check for updates (so we can 
 
 They get no information other than that you opened it.
 
-## Simple Installation
+## Installation
 
 These will download binaries built by & hosted on Github servers.
 
@@ -36,7 +36,9 @@ Install the [Debian Package](https://github.com/Exponential-Workload/cinny-deskt
 
 Use the [Windows Installer](https://github.com/Exponential-Workload/cinny-desktop/releases/latest/download/windows-setup-x64.exe).
 
-## Advanced Installation
+## Installation Assets
+
+Here's everything you need to install Cinny to basically any linux/windows system however you want.
 
 ### Prebuilt Binaries
 
